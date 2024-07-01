@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gopalakrishnan251996
 - 👀 I’m interested in coding
-- 🌱 I’m currently exploring Blockchain Technology
-- 💞️ I’m looking to collaborate on Java and Blockchain friends
+- 🌱 I’m currently exploring Spring and Cyber Security
+- 💞️ I’m looking to collaborate on Java and Cyber friends
 - 📫 How to reach me ...
 
 <!---
